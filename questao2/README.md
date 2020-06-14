@@ -1,1 +1,1 @@
-
+Repete a questão 1 usando o algoritmo colorednoise e considerando N=8192 para os ruídos de cor branca, rosa e vermelha. Gera 20 séries para cada um deles, totalizando 60. Faz o agrupamento via K-means.
